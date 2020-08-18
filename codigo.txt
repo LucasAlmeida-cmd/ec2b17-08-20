@@ -1,0 +1,6 @@
+Lucas Almeida Fernandes de Moraes 
+
+
+Codigo:
+
+A pessoa vai chamar o carro voador atraves de um aplicativo Y, e esperar o carro autônomo chegar até ela.

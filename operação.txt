@@ -1,0 +1,4 @@
+Lucas Almeida Fernandes de Moraes
+
+Operação: 
+Lnaçar o aplicativo e ficar em uma constante observação para verificar se não acontece nenhum erro.
